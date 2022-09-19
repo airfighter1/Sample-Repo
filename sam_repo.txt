@@ -13,3 +13,5 @@ When you've made the decision to delete, you should open the "Settings" page for
 
 
 new branch
+
+
