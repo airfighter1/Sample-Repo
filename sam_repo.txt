@@ -8,3 +8,9 @@ To verify that you're deleting the correct repository, type the name of the repo
 
 
 When you've made the decision to delete, you should open the "Settings" page for the repository. There, scroll down all the way to the bottom and you'll find the button "Delete this repository".
+
+
+
+
+
+shared data merge
