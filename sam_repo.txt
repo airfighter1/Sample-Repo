@@ -3,3 +3,8 @@ Under your repository name, click Settings.
 Under Danger Zone, click Delete this repository.
 Read the warnings.
 To verify that you're deleting the correct repository, type the name of the repository you want to delete.
+
+
+
+
+When you've made the decision to delete, you should open the "Settings" page for the repository. There, scroll down all the way to the bottom and you'll find the button "Delete this repository".
